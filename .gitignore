@@ -1,0 +1,12 @@
+# Node
+my-app-frontend/node_modules
+my-app-frontend/dist
+my-app-frontend/.env
+
+# Python
+my-app-backend/__pycache__/
+my-app-backend/.env
+my-app-backend/venv/
+
+# OS files
+.DS_Store
