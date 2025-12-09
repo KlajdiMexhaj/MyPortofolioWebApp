@@ -135,13 +135,7 @@ const Header = () => {
                 </a>
               );
             })}
-            <a
-              href="#contact"
-              onClick={() => setIsOpen(false)}
-              className="block mt-4 px-4 py-3 text-center text-base font-semibold text-white rounded-lg bg-gradient-to-r from-sky-500 to-blue-600 hover:from-purple-500 hover:to-pink-500 transition-all duration-300"
-            >
-              Let's Talk
-            </a>
+
           </nav>
         </div>
       </div>
