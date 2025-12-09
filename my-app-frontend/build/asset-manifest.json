@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.a23f130a.js",
+    "static/media/KlajdiMexhajCv.JPG": "/static/media/KlajdiMexhajCv.44605ee48db55dac8ca1.JPG",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.a23f130a.js.map": "/static/js/main.a23f130a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a23f130a.js"
+  ]
+}
