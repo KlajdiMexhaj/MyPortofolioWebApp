@@ -116,7 +116,7 @@ const HeroSection: React.FC = () => {
         {/* Minimal tech badges */}
         <div className="flex flex-wrap justify-center gap-3 items-center">
           <span className="text-xs text-white/40 font-light">Working with</span>
-          {['React', 'TypeScript', 'Python', 'Tailwind'].map((tech, i) => (
+          {['React', 'TypeScript', 'Tailwind', 'Python', 'C#'].map((tech, i) => (
             <React.Fragment key={tech}>
               <span className="text-sm text-white/50 hover:text-[#00B0B9] transition-colors duration-200 font-light cursor-default">
                 {tech}
